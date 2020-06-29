@@ -1,0 +1,36 @@
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\bin\Debug\OLE beauty clinic.exe
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\bin\Debug\OLE beauty clinic.pdb
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\bin\Debug\OLE beauty clinic.xml
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_custreg.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Resources.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE beauty clinic.vbproj.GenerateResource.Cache
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE beauty clinic.exe
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE beauty clinic.xml
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE beauty clinic.pdb
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_cust.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_stf.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_sregis.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_spakage.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_proreg.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_customer.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_stfreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_booking.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_bill.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_sreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_user.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_pcate.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_bkg.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_bcreg.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_studreg.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_login.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_bilreg.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_prorep.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_serrep.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.MDI_olebeautyclinic.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_cashbook.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_cashrep.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_expreg.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_exprep.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_incomrep.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE beauty clinic\OLE beauty clinic\obj\Debug\OLE_beauty_clinic.Frm_increg.resources

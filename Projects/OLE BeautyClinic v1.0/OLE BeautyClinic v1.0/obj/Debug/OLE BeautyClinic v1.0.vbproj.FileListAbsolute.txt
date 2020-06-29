@@ -1,0 +1,42 @@
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\bin\Debug\OLE BeautyClinic v1.0.exe
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\bin\Debug\OLE BeautyClinic v1.0.pdb
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\bin\Debug\OLE BeautyClinic v1.0.xml
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_home.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.Resources.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE BeautyClinic v1.0.vbproj.GenerateResource.Cache
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE BeautyClinic v1.0.exe
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE BeautyClinic v1.0.xml
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE BeautyClinic v1.0.pdb
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_customer_Registration.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_settings.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_billing.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_booking.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_billreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_bookingreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_cashbook.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_cashreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_customerreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_expenceregistration.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_expencereport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_incomeregistration.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_incomereport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_productregistration.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_productreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_servicereport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_staffregistration.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_staffreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_studentregistration.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_studentreport.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_login.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_servicepackage.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_bookprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_bill_print.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_cashprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_cusomerprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_expenceprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_incomeprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_productprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_serviceprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_staffprint.resources
+C:\Users\Malu\Documents\Visual Studio 2008\Projects\OLE BeautyClinic v1.0\OLE BeautyClinic v1.0\obj\Debug\OLE_BeautyClinic_v1._0.frm_studentprint.resources
